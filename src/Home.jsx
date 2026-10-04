@@ -174,7 +174,7 @@ const Home = () => {
                                 onClick={handleGenerate}
                                 className="w-full bg-[#0078d4] hover:bg-[#005a9e] text-white font-bold py-4 cursor-pointer shadow-lg shadow-blue-500/20 transition-all active:scale-[0.98] text-sm md:text-base"
                             >
-                                Generate Azure QR
+                                Generate QR
                             </button>
                         </div>
                     </div>
