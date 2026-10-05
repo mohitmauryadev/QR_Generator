@@ -243,7 +243,7 @@ const Home = () => {
                 <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
                     <div>
                         <p className="text-[9px] font-black text-slate-300 uppercase tracking-widest">Architected By</p>
-                        <p className="text-base font-black text-slate-800">Mohit Maurya</p>
+                        <p className="text-base font-black text-slate-800">WeboraX Pvt. Ltd.</p>
                     </div>
                     <p className="text-slate-400 text-[10px] font-bold uppercase tracking-tight">
                         © {new Date().getFullYear()} QR Generator Enterprise
